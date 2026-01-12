@@ -1,0 +1,13 @@
+## Interface: 11506
+## Title: Warrior Macro Helper
+## Notes: Simple addon to update /equipslot macros for Warrior
+## Author: Squeezex
+## Version: 1.0
+## SavedVariables: WMH_DB
+
+core.lua
+config.lua
+macros.lua
+items.lua
+ui.lua
+minimap.lua
